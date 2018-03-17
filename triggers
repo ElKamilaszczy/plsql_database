@@ -33,3 +33,4 @@ BEGIN
 SELECT cennik_sq.NEXTVAL INTO :new.typ_wizyty FROM dual;
 END;
 /
+sds
